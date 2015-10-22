@@ -1,0 +1,12 @@
+﻿Build started 6/11/2015 11:05:59 AM.
+     1>Project "C:\Users\Madhav\Documents\Visual Studio 2013\Projects\GOL\GOL\GOL.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Madhav\Documents\Visual Studio 2013\Projects\GOL\Release\GOL.exe" /NOLOGO /LIBPATH:"C:\SFML-2.2\lib" winmm.lib gdi32.lib freetype.lib opengl32.lib glew.lib jpeg.lib "sfml-graphics-s.lib" "sfml-window-s.lib" "sfml-system-s.lib" kernel32.lib user32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Madhav\Documents\Visual Studio 2013\Projects\GOL\Release\GOL.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Madhav\Documents\Visual Studio 2013\Projects\GOL\Release\GOL.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         Generating code
+         Finished generating code
+         GOL.vcxproj -> C:\Users\Madhav\Documents\Visual Studio 2013\Projects\GOL\Release\GOL.exe
+     1>Done Building Project "C:\Users\Madhav\Documents\Visual Studio 2013\Projects\GOL\GOL\GOL.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.45
